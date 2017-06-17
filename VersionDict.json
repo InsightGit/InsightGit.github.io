@@ -9,7 +9,7 @@
       },
       {
         "name": "Mozilla Firefox",
-        "latestversion": 53.00,
+        "latestversion": 54.00,
         "applocation": "Mozilla Firefox/firefox.exe"
       },
       {
@@ -24,7 +24,7 @@
       },
 	  {
         "name": "LibreOffice",
-        "latestversion": 5.3002,
+        "latestversion": 5.3003,
 		"latestversion2": 5.2007,
         "applocation": "LibreOffice 5/program/soffice.exe",
 		"alternateapplocations": ["LibreOffice 4/program/soffice.exe","LibreOffice 3.6/program/soffice.exe"],
