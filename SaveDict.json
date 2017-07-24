@@ -1,3 +1,14 @@
 {
-  "replace1": "replace2"
+  "game": [
+    {
+      "name": "Hovercraft: Takedown",
+      "imagefile": "hc.png",
+      "savedir": "/data/data/com.highscorehero.takedown/shared_prefs"
+    },
+    {
+      "name": "Oh my giraffe",
+      "imagefile": "omg.png",
+      "savedir": "/data/data/com.kneeko.graffe/files/save"
+    }
+  ]
 }
