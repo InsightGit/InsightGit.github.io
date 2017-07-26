@@ -1,6 +1,6 @@
 #!/bin/sh
 if [ -d $1 ]; then 
-exit 1; 
+echo positive
 else
-exit 5;
+echo negative
 fi
