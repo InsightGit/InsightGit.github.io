@@ -2,11 +2,13 @@
   "game0": {
     "name": "Hovercraft: Takedown",
     "imagefile": "hc.png",
-    "savedir": "/data/data/com.highscorehero.takedown/shared_prefs"
+    "savedir": "/data/data/com.highscorehero.takedown/shared_prefs",
+    "packagename": "com.highscorehero.takedown"
   },
   "game1": {
     "name": "Oh my giraffe",
     "imagefile": "omg.png",
-    "savedir": "/data/data/com.kneeko.giraffe/files/save"
+    "savedir": "/data/data/com.kneeko.giraffe/files/save",
+    "packagename": "com.kneeko.giraffe"
   }
 }
