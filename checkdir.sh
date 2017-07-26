@@ -1,6 +1,6 @@
 #!/bin/sh
 if [ -d $1 ]; then 
-exit 0; 
+exit 1; 
 else
 exit 5;
 fi
