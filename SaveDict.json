@@ -7,6 +7,6 @@
   "game1": {
     "name": "Oh my giraffe",
     "imagefile": "omg.png",
-    "savedir": "/data/data/com.kneeko.graffe/files/save"
+    "savedir": "/data/data/com.kneeko.giraffe/files/save"
   }
 }
