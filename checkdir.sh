@@ -1,6 +1,8 @@
 #!/bin/sh
 if [ -d $1 ]; then 
-echo positive
+printf "positive\\n"
 else
-echo negative
+printf "negative\\n"
 fi
+printf "endshellscript\\n"
+exit 0 
