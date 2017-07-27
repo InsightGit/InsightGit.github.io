@@ -4,20 +4,23 @@
     "imagefile": "hc.png",
     "savedir": "/data/data/com.highscorehero.takedown/shared_prefs",
     "packagename": "com.highscorehero.takedown",
-    "dumpsavepath": "/data/data/com.highscorehero.takedown/files/"
+    "dumpsavepath": "/data/data/com.highscorehero.takedown/files/",
+    "savedirname": "files"
   },
   "game1": {
     "name": "Oh my giraffe",
     "imagefile": "omg.png",
     "savedir": "/data/data/com.kneeko.giraffe/files/save",
     "packagename": "com.kneeko.giraffe",
-    "dumpsavepath": "/data/data/com.kneeko.giraffe/files/"
+    "dumpsavepath": "/data/data/com.kneeko.giraffe/files/",
+    "savedirname": "save"
   },
   "game2": {
     "name": "Crazy Taxi",
     "imagefile": "ct.png",
     "savedir": "/data/data/com.sega.CrazyTaxi/files/",
     "packagename": "com.sega.CrazyTaxi",
-    "dumpsavepath": "/data/data/com.sega.CrazyTaxi/"
+    "dumpsavepath": "/data/data/com.sega.CrazyTaxi/",
+    "savedirname": "files"
   }
 }
