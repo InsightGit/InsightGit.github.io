@@ -26,9 +26,10 @@
   "game3": {
     "name": "Asphalt 8",
     "imagefile": "a8.png",
-    "savedir": "/data/data/com.gameloft.android.ANMP.GloftA8HM/files/SaveFile.dat",
+    "savedir": "/data/data/com.gameloft.android.ANMP.GloftA8HM/files/",
     "packagename": "com.gameloft.android.ANMP.GloftA8HM",
-    "dumpsavepath": "/data/data/com.gameloft.android.ANMP.GloftA8HM/files",
-    "savedirname": "SaveFile.dat"
+    "dumpsavepath": "/data/data/com.gameloft.android.ANMP.GloftA8HM/",
+    "savedirname": "files",
+    "disablerecursion": true
   }
 }
