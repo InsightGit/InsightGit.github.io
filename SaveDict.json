@@ -3,24 +3,32 @@
     "name": "Hovercraft: Takedown",
     "imagefile": "hc.png",
     "savedir": "/data/data/com.highscorehero.takedown/shared_prefs",
-    "packagename": "com.highscorehero.takedown"
+    "packagename": "com.highscorehero.takedown",
+    "dumpsavepath": "/data/data/com.highscorehero.takedown/files/",
+    "savedirname": "files"
   },
   "game1": {
     "name": "Oh my giraffe",
     "imagefile": "omg.png",
     "savedir": "/data/data/com.kneeko.giraffe/files/save",
-    "packagename": "com.kneeko.giraffe"
+    "packagename": "com.kneeko.giraffe",
+    "dumpsavepath": "/data/data/com.kneeko.giraffe/files/",
+    "savedirname": "save"
   },
   "game2": {
     "name": "Crazy Taxi",
     "imagefile": "ct.png",
     "savedir": "/data/data/com.sega.CrazyTaxi/files/",
-    "packagename": "com.sega.CrazyTaxi"
+    "packagename": "com.sega.CrazyTaxi",
+    "dumpsavepath": "/data/data/com.sega.CrazyTaxi/",
+    "savedirname": "files"
   },
   "game3": {
     "name": "Asphalt 8",
     "imagefile": "a8.png",
-    "savedir": "/data/data/com.gameloft.android.ANMP.GloftA8HM/files/",
-    "packagename": "com.gameloft.android.ANMP.GloftA8HM"
+    "savedir": "/data/data/com.gameloft.android.ANMP.GloftA8HM/files/SaveFile.dat",
+    "packagename": "com.gameloft.android.ANMP.GloftA8HM",
+    "dumpsavepath": "/data/data/com.gameloft.android.ANMP.GloftA8HM/files",
+    "savedirname": "SaveFile.dat"
   }
 }
