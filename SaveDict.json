@@ -16,5 +16,11 @@
     "imagefile": "ct.png",
     "savedir": "/data/data/com.sega.CrazyTaxi/files/",
     "packagename": "com.sega.CrazyTaxi"
+  },
+  "game3": {
+    "name": "Asphalt 8",
+    "imagefile": "a8.png",
+    "savedir": "/data/data/com.gameloft.android.ANMP.GloftA8HM/files/",
+    "packagename": "com.gameloft.android.ANMP.GloftA8HM"
   }
 }
