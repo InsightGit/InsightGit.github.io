@@ -38,5 +38,13 @@
     "packagename": "com.ninjakiwi.bloonstd5",
     "dumpsavepath": "/data/data/com.ninjakiwi.bloonstd5/",
     "savedirname": "files"
+  },
+    "game5": {
+    "name": "Mega Mall Story",
+    "imagefile": "mm.png",
+    "savedir": "/data/data/net.kairosoft.android.depart_en/shared_prefs/",
+    "packagename": "net.kairosoft.android.depart_en",
+    "dumpsavepath": "/data/data/net.kairosoft.android.depart_en/",
+    "savedirname": "shared_prefs"
   }
 }
