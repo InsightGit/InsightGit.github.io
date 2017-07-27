@@ -30,5 +30,13 @@
     "packagename": "com.gameloft.android.ANMP.GloftA8HM",
     "dumpsavepath": "/data/data/com.gameloft.android.ANMP.GloftA8HM/",
     "savedirname": "files"
+  },
+  "game4": {
+    "name": "Bloons TD 5",
+    "imagefile": "bt5.png",
+    "savedir": "/data/data/com.ninjakiwi.bloonstd5/files/",
+    "packagename": "com.ninjakiwi.bloonstd5",
+    "dumpsavepath": "/data/data/com.ninjakiwi.bloonstd5/",
+    "savedirname": "files"
   }
 }
