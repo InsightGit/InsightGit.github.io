@@ -10,5 +10,11 @@
     "imagefile": "omg.png",
     "savedir": "/data/data/com.kneeko.giraffe/files/save",
     "packagename": "com.kneeko.giraffe"
+  },
+  "game2": {
+    "name": "Crazy Taxi",
+    "imagefile": "ct.png",
+    "savedir": "/data/data/com.sega.CrazyTaxi/files/",
+    "packagename": "com.sega.CrazyTaxi"
   }
 }
