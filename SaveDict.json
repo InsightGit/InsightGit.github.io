@@ -55,12 +55,20 @@
     "dumpsavepath": "/data/data/com.ustwo.monumentvalley/",
     "savedirname": "shared_prefs"
   },
-    "game6": {
+  "game7": {
     "name": "Monument Valley (Amazon)",
     "imagefile": "mv.png",
     "savedir": "/data/data/com.ustwo.monumentvalley.underground/shared_prefs/",
     "packagename": "com.ustwo.monumentvalley.underground",
     "dumpsavepath": "/data/data/com.ustwo.monumentvalley.underground/",
+    "savedirname": "shared_prefs"
+  },
+  "game8": {
+    "name": "PAC-MAN 256",
+    "imagefile": "pm.png",
+    "savedir": "/data/data/eu.bandainamcoent.pacman256/shared_prefs",
+    "packagename": "eu.bandainamcoent.pacman256",
+    "dumpsavepath": "/data/data/eu.bandainamcoent.pacman256/",
     "savedirname": "shared_prefs"
   }
 }
