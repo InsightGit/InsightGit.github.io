@@ -58,7 +58,7 @@
   "game7": {
     "name": "Monument Valley (Amazon)",
     "imagefile": "mv.png",
-    "savedir": "/data/data/com.ustwo.monumentvalley.underground/shared_prefs/",
+    "savedir": "/data/data/com.ustwo.monumentvalley.underground/shared_prefs",
     "packagename": "com.ustwo.monumentvalley.underground",
     "dumpsavepath": "/data/data/com.ustwo.monumentvalley.underground/",
     "savedirname": "shared_prefs"
@@ -70,5 +70,13 @@
     "packagename": "eu.bandainamcoent.pacman256",
     "dumpsavepath": "/data/data/eu.bandainamcoent.pacman256/",
     "savedirname": "shared_prefs"
+  },
+  "game9": {
+    "name": "Minecraft Pocket Edition",
+    "imagefile": "mpe.png",
+    "savedir": "/sdcard/games/com.mojang",
+    "packagename": "com.mojang.minecraftpe",
+    "dumpsavepath": "/sdcard/games/",
+    "savedirname": "com.mojang"
   }
 }
