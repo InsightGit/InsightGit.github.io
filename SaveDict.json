@@ -78,5 +78,21 @@
     "packagename": "com.mojang.minecraftpe",
     "dumpsavepath": "/sdcard/games/",
     "savedirname": "com.mojang"
+  },
+  "game10": {
+    "name": "Terraria",
+    "imagefile": "te.png",
+    "savedir": "/data/data/com.and.games505.Terraria/files",
+    "packagename": "com.and.games505.Terraria",
+    "dumpsavepath": "/data/data/com.and.games505.Terraria/",
+    "savedirname": "files"
+  },
+  "game11": {
+    "name": "Terraria (Paid)",
+    "imagefile": "te.png",
+    "savedir": "/data/data/com.and.games505.TerrariaPaid/files",
+    "packagename": "com.and.games505.TerrariaPaid",
+    "dumpsavepath": "/data/data/com.and.games505.TerrariaPaid/",
+    "savedirname": "files"
   }
 }
