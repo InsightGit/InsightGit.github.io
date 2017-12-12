@@ -94,5 +94,13 @@
     "packagename": "com.and.games505.TerrariaPaid",
     "dumpsavepath": "/data/data/com.and.games505.TerrariaPaid/",
     "savedirname": "files"
+  },
+  "game12": {
+    "name": "Smashy Road Arena",
+    "imagefile": "sra.png",
+    "savedir": "/data/data/com.bearbit.smashyroadarena/shared_prefs",
+    "packagename": "com.bearbit.smashyroadarena",
+    "dumpsavepath": "/data/data/com.bearbit.smashyroadarena/",
+    "savedirname": "shared_prefs"
   }
 }
