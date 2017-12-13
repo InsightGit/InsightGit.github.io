@@ -102,5 +102,13 @@
     "packagename": "com.bearbit.smashyroadarena",
     "dumpsavepath": "/data/data/com.bearbit.smashyroadarena/",
     "savedirname": "shared_prefs"
+  },
+  "game13": {
+    "name": "Sonic the Hedgehog (Classic)",
+    "imagefile": "sth.png",
+    "savedir": "/data/data/com.sega.sonic1px/files",
+    "packagename": "com.sega.sonic1px",
+    "dumpsavepath": "/data/data/com.sega.sonic1px/",
+    "savedirname": "files"
   }
 }
