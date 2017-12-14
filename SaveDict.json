@@ -118,6 +118,14 @@
     "packagename": "com.waybefore.fastlikeafox",
     "dumpsavepath": "/data/data/com.waybefore.fastlikeafox/",
     "savedirname": "files"
-  } 
+  },
+  "game15": {
+    "name": "Hill Climb Racing",
+    "imagefile": "hcr.png",
+    "savedir": "/data/data/com.fingersoft.hillclimb/shared_prefs",
+    "packagename": "com.fingersoft.hillclimb",
+    "dumpsavepath": "/data/data/com.fingersoft.hillclimb/",
+    "savedirname": "shared_prefs"
+  }  
   
 }
