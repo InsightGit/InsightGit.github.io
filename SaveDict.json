@@ -110,5 +110,14 @@
     "packagename": "com.sega.sonic1px",
     "dumpsavepath": "/data/data/com.sega.sonic1px/",
     "savedirname": "shared_prefs"
-  }
+  },
+  "game14": {
+    "name": "Fast like a Fox",
+    "imagefile": "flf.png",
+    "savedir": "/data/data/com.waybefore.fastlikeafox/files",
+    "packagename": "com.waybefore.fastlikeafox",
+    "dumpsavepath": "/data/data/com.waybefore.fastlikeafox/",
+    "savedirname": "files"
+  } 
+  
 }
