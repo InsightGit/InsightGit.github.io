@@ -126,6 +126,13 @@
     "packagename": "com.fingersoft.hillclimb",
     "dumpsavepath": "/data/data/com.fingersoft.hillclimb/",
     "savedirname": "shared_prefs"
-  }  
-  
+  },
+  "game16": {
+    "name": "Hill Climb Racing 2",
+    "imagefile": "hcr2.png",
+    "savedir": "/data/data/com.fingersoft.hcr2/files",
+    "packagename": "com.fingersoft.hcr2",
+    "dumpsavepath": "/data/data/com.fingersoft.hcr2/",
+    "savedirname": "files"
+  }    
 }
