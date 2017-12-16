@@ -206,5 +206,13 @@
     "packagename": "net.kairosoft.android.paddock_en",
     "dumpsavepath": "/data/data/net.kairosoft.android.paddock_en/",
     "savedirname": "shared_prefs"
+  },
+  "game26": {
+    "name": "Fallout Shelter",
+    "imagefile": "fs.png",
+    "savedir": "/sdcard/Android/data/com.bethsoft.falloutshelter/files",
+    "packagename": "com.bethsoft.falloutshelter",
+    "dumpsavepath": "/sdcard/Android/data/com.bethsoft.falloutshelter/",
+    "savedirname": "files"
   }
 }
