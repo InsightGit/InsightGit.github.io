@@ -166,5 +166,13 @@
     "packagename": "jp.co.hit_point.nekoatsume",
     "dumpsavepath": "/data/data/jp.co.hit_point.nekoatsume/",
     "savedirname": "files"
+  },
+  "game21": {
+    "name": "Doodle Jump",
+    "imagefile": "dj.png",
+    "savedir": "/data/data/com.lima.doodlejump/files",
+    "packagename": "com.lima.doodlejump",
+    "dumpsavepath": "/data/data/com.lima.doodlejump/",
+    "savedirname": "files"
   }
 }
