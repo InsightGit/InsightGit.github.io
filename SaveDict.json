@@ -174,5 +174,13 @@
     "packagename": "com.lima.doodlejump",
     "dumpsavepath": "/data/data/com.lima.doodlejump/",
     "savedirname": "files"
+  },
+  "game22": {
+    "name": "Alto's Adventure",
+    "imagefile": "aa.png",
+    "savedir": "/data/data/com.noodlecake.altosadventure/shared_prefs",
+    "packagename": "com.noodlecake.altosadventure",
+    "dumpsavepath": "/data/data/com.noodlecake.altosadventure/",
+    "savedirname": "shared_prefs"
   }
 }
