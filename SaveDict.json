@@ -150,5 +150,13 @@
     "packagename": "com.yodo1.crossyroad",
     "dumpsavepath": "/data/data/com.yodo1.crossyroad/",
     "savedirname": "shared_prefs"
+  },
+  "game19": {
+    "name": "Jetpack Joyride",
+    "imagefile": "jj.png",
+    "savedir": "/data/data/com.halfbrick.jetpackjoyride/files",
+    "packagename": "com.halfbrick.jetpackjoyride",
+    "dumpsavepath": "/data/data/com.halfbrick.jetpackjoyride/",
+    "savedirname": "files"
   }
 }
