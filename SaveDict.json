@@ -183,12 +183,20 @@
     "dumpsavepath": "/data/data/com.noodlecake.altosadventure/",
     "savedirname": "shared_prefs"
   },
-  "game22": {
+  "game23": {
     "name": "Angry Birds",
     "imagefile": "ab.png",
     "savedir": "/data/data/com.rovio.angrybirds/files",
     "packagename": "com.rovio.angrybirds",
     "dumpsavepath": "/data/data/com.rovio.angrybirds/",
+    "savedirname": "files"
+  },
+  "game24": {
+    "name": "PAC-MAN",
+    "imagefile": "pmt.png",
+    "savedir": "/data/data/com.namcobandaigames.pacmantournaments/files",
+    "packagename": "com.namcobandaigames.pacmantournaments",
+    "dumpsavepath": "/data/data/com.namcobandaigames.pacmantournaments/",
     "savedirname": "files"
   }
 }
