@@ -214,5 +214,13 @@
     "packagename": "com.bethsoft.falloutshelter",
     "dumpsavepath": "/sdcard/Android/data/com.bethsoft.falloutshelter/",
     "savedirname": "files"
+  },
+  "game27": {
+    "name": "Sonic Dash 2: Sonic Boom",
+    "imagefile": "sd2.png",
+    "savedir": "/sdcard/Android/data/com.sega.sonicboomandroid/files",
+    "packagename": "com.sega.sonicboomandroid",
+    "dumpsavepath": "/sdcard/Android/data/com.sega.sonicboomandroid/",
+    "savedirname": "files"
   }
 }
