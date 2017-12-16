@@ -135,7 +135,7 @@
     "dumpsavepath": "/data/data/com.fingersoft.hcr2/",
     "savedirname": "files"
   },
-  "game17: {
+  "game17": {
     "name": "BADLAND",
     "imagefile": "bl.png",
     "savedir": "/data/data/com.frogmind.badland/files",
