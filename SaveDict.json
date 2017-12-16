@@ -198,5 +198,13 @@
     "packagename": "com.namcobandaigames.pacmantournaments",
     "dumpsavepath": "/data/data/com.namcobandaigames.pacmantournaments/",
     "savedirname": "files"
+  },
+  "game25": {
+    "name": "Grand Prix Story",
+    "imagefile": "gps.png",
+    "savedir": "/data/data/net.kairosoft.android.paddock_en/shared_prefs",
+    "packagename": "net.kairosoft.android.paddock_en",
+    "dumpsavepath": "/data/data/net.kairosoft.android.paddock_en/",
+    "savedirname": "shared_prefs"
   }
 }
