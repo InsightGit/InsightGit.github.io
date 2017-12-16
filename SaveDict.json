@@ -142,5 +142,13 @@
     "packagename": "com.frogmind.badland",
     "dumpsavepath": "/data/data/com.frogmind.badland/",
     "savedirname": "files"
+  },  
+  "game18": {
+    "name": "Crossy Road",
+    "imagefile": "cr.png",
+    "savedir": "/data/data/com.yodo1.crossyroad/shared_prefs",
+    "packagename": "com.yodo1.crossyroad",
+    "dumpsavepath": "/data/data/com.yodo1.crossyroad/",
+    "savedirname": "shared_prefs"
   }
 }
