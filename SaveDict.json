@@ -134,5 +134,13 @@
     "packagename": "com.fingersoft.hcr2",
     "dumpsavepath": "/data/data/com.fingersoft.hcr2/",
     "savedirname": "files"
-  }    
+  },
+  "game17: {
+    "name": "BADLAND",
+    "imagefile": "bl.png",
+    "savedir": "/data/data/com.frogmind.badland/files",
+    "packagename": "com.frogmind.badland",
+    "dumpsavepath": "/data/data/com.frogmind.badland/",
+    "savedirname": "files"
+  }
 }
