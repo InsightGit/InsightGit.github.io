@@ -182,5 +182,13 @@
     "packagename": "com.noodlecake.altosadventure",
     "dumpsavepath": "/data/data/com.noodlecake.altosadventure/",
     "savedirname": "shared_prefs"
+  },
+  "game22": {
+    "name": "Angry Birds",
+    "imagefile": "ab.png",
+    "savedir": "/data/data/com.rovio.angrybirds/files",
+    "packagename": "com.rovio.angrybirds",
+    "dumpsavepath": "/data/data/com.rovio.angrybirds/",
+    "savedirname": "files"
   }
 }
