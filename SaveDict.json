@@ -158,5 +158,13 @@
     "packagename": "com.halfbrick.jetpackjoyride",
     "dumpsavepath": "/data/data/com.halfbrick.jetpackjoyride/",
     "savedirname": "files"
+  },
+  "game20": {
+    "name": "Neko Atsume: Kitty Collector",
+    "imagefile": "na.png",
+    "savedir": "/data/data/jp.co.hit_point.nekoatsume/files",
+    "packagename": "jp.co.hit_point.nekoatsume",
+    "dumpsavepath": "/data/data/jp.co.hit_point.nekoatsume/",
+    "savedirname": "files"
   }
 }
