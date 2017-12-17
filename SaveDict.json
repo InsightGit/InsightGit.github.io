@@ -222,5 +222,13 @@
     "packagename": "com.sega.sonicboomandroid",
     "dumpsavepath": "/sdcard/Android/data/com.sega.sonicboomandroid/",
     "savedirname": "files"
+  },
+  "game28": {
+    "name": "Sonic The Hedgehog 2 Classic",
+    "imagefile": "sth2.png",
+    "savedir": "/data/data/com.sega.sonic2.runner/files",
+    "packagename": "com.sega.sonic2.runner",
+    "dumpsavepath": "/data/data/com.sega.sonic2.runner/",
+    "savedirname": "files"
   }
 }
