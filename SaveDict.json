@@ -230,5 +230,13 @@
     "packagename": "com.sega.sonic2.runner",
     "dumpsavepath": "/data/data/com.sega.sonic2.runner/",
     "savedirname": "files"
+  },
+  "game29": {
+    "name": "Plants vs. Zombies FREE",
+    "imagefile": "pvz.png",
+    "savedir": "/data/data/com.ea.game.pvzfree_row/files",
+    "packagename": "com.ea.game.pvzfree_row",
+    "dumpsavepath": "/data/data/com.ea.game.pvzfree_row/",
+    "savedirname": "files"
   }
 }
