@@ -1,5 +1,6 @@
 {
   "minVersionCode": 6,
   "maxVersionCode": 6,
-  "maintenanceMode": false
+  "maintenanceMode": false,
+  "defaultRepo": "infernostudios.me"
 }
